@@ -5,6 +5,7 @@
 ## Features
 
 - [structuredClone](features/structuredclone)
+- [Import JSON modules in ES modules](features/import-json-modules-in-es-modules)
 
 ## TODO
 
