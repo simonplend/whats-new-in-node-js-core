@@ -1,0 +1,7 @@
+{
+  "name": "structuredclone",
+  "scripts": {
+    "start": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

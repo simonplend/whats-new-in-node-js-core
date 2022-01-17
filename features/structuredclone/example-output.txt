@@ -1,0 +1,4 @@
+> node example.js
+
+user.address.street: Original Road
+clonedUser.address.street: New Road
