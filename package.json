@@ -1,0 +1,9 @@
+{
+  "name": "whats-new-in-node-js-core",
+  "description": "> TODO: Description.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "license": "MIT"
+}
