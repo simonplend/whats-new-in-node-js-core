@@ -9,6 +9,10 @@
 npm start
 ```
 
-<!-- TODO: Add link to tweet -->
+## Related links
+
+- [Twitter thread about structuredClone](https://twitter.com/simonplend/status/1483789097734918152)
+
+<!-- TODO: Include a screenshot of the tweet -->
 
 <!-- TODO: Add link to blog post -->
