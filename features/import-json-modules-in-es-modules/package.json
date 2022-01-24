@@ -1,6 +1,7 @@
 {
-  "name": "esm-json-import",
+  "name": "import-json-modules-in-es-modules",
   "scripts": {
+    "start": "node --experimental-json-modules example.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
