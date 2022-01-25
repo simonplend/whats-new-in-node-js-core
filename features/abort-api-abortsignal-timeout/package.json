@@ -1,0 +1,8 @@
+{
+  "name": "abort-api-abortsignal-timeout",
+  "scripts": {
+    "example-a": "node -r ./keep-process-alive.js example-a.mjs",
+    "example-b": "node --experimental-fetch example-b.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

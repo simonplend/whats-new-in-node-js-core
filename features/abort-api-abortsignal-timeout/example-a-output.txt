@@ -1,0 +1,3 @@
+$ node example-a.mjs
+
+Signal automatically aborted.

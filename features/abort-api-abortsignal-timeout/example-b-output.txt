@@ -1,0 +1,6 @@
+$ node --experimental-fetch example-b.mjs
+
+(node:788883) ExperimentalWarning: Fetch is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+The HTTP request was automatically cancelled.

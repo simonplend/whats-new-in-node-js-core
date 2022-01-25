@@ -5,6 +5,7 @@
 ## Features
 
 - Abort API
+	- [AbortSignal.timeout](features/abort-api-abortsignal-timeout)
 	- [abortSignal.reason](features/abort-api-abortsignal-reason)
 - [Import JSON modules in ES modules](features/import-json-modules-in-es-modules)
 - Promise-based APIs
