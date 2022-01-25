@@ -1,0 +1,7 @@
+{
+  "name": "todo-feature-name",
+  "scripts": {
+    "start": "node example.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
