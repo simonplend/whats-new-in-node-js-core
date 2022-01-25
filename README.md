@@ -4,6 +4,8 @@
 
 ## Features
 
+- Abort API
+	- [abortSignal.reason](features/abort-api-abortsignal-reason)
 - [Import JSON modules in ES modules](features/import-json-modules-in-es-modules)
 - Promise-based APIs
 	- [readline](features/promises-api-readline)
