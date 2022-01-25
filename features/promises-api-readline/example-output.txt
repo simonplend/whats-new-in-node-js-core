@@ -1,0 +1,4 @@
+$ node example.mjs
+
+What is the meaning of life? 42
+Alright, the meaning of life is 42!
