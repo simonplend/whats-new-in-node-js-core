@@ -9,8 +9,10 @@
 npm start
 ```
 
-<!-- ## Related links -->
+## Related links
 
-<!-- TODO: Add link to Twitter thread + screenshot -->
+- [Twitter thread about JSON import assertions](https://twitter.com/simonplend/status/1485963681645142019)
+
+<!-- TODO: Add screenshot of tweet -->
 
 <!-- TODO: Add link to blog post -->
