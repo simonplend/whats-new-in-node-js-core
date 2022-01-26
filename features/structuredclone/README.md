@@ -1,4 +1,4 @@
-# Feature: structuredClone
+# Feature: structuredClone()
 
 - [View example code](./example.js)
 - [View example output](./example-output.txt)

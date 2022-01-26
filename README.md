@@ -11,7 +11,7 @@
 - [Import JSON modules in ES modules](features/import-json-modules-in-es-modules)
 - Promise-based APIs
 	- [readline](features/promises-api-readline)
-- [structuredClone](features/structuredclone)
+- [structuredClone()](features/structuredclone)
 
 ## License
 
