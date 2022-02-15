@@ -9,8 +9,10 @@
 npm start
 ```
 
-<!-- TODO: ## Related links -->
+## Related links
 
-<!-- TODO: Add link to Twitter thread + screenshot -->
+- [Twitter thread about readline promises API](https://twitter.com/simonplend/status/1486327345074081793)
+
+<!-- TODO: Add  screenshot of tweet -->
 
 <!-- TODO: Add link to blog post -->
