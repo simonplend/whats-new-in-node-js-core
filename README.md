@@ -1,4 +1,4 @@
-# What's new in Node.js core?
+# 🆕 What's new in Node.js core?
 
 > Code examples for [What's new in Node.js core?](https://simonplend.com/whats-new-in-node-js-core/)
 
