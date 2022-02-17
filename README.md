@@ -2,6 +2,13 @@
 
 > Code examples for [What's new in Node.js core?](https://simonplend.com/whats-new-in-node-js-core/)
 
+## Usage
+
+Git clone this repository. Each sub-directory in the [features/](features/)
+directory has a README with details for running its examples.
+
+You don't need to run `npm install` as there are no dependencies 🪄
+
 ## Features
 
 - Abort API
