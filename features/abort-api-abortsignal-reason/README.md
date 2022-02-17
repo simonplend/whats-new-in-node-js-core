@@ -9,8 +9,8 @@
 npm start
 ```
 
-<!-- TODO: ## Related links -->
+## Related links
 
-<!-- TODO: Add link to Twitter thread + screenshot -->
+- [Twitter thread about abortSignal.reason](https://twitter.com/simonplend/status/1486686231517876230)
 
 <!-- TODO: Add link to blog post -->

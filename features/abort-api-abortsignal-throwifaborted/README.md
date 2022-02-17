@@ -9,8 +9,8 @@
 npm start
 ```
 
-<!-- TODO: ## Related links -->
+## Related links
 
-<!-- TODO: Add link to Twitter thread + screenshot -->
+- [Twitter thread about abortSignal.throwIfAborted()](https://twitter.com/simonplend/status/1487053107720859648)
 
 <!-- TODO: Add link to blog post -->
