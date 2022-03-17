@@ -2,7 +2,7 @@
  * Deep cloning an object with `structuredClone()` in Node.js.
  *
  * Added: v17.0.0
- * Also available in Deno, Firefox 94 + Chrome 98
+ * Also available in Deno, Firefox, Chrome, Edge and Safari
  */
 
 const user = {
