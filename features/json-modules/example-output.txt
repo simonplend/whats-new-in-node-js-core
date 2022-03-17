@@ -1,4 +1,4 @@
-$ node --experimental-json-modules example.mjs
+$ node --experimental-json-modules example-a.mjs
 
 {
   packageJsonExample1: {

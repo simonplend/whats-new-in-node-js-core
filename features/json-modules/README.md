@@ -1,6 +1,6 @@
 # Feature: JSON modules
 
-- [View example code](./example.mjs)
+- [View example code](./example-a.mjs)
 - [View example output](./example-output.txt)
 
 ## Example A
