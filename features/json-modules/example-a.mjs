@@ -1,15 +1,11 @@
 /**
- * Importing a JSON module in an ES module with JSON import assertion.
+ * Importing a JSON module in an ES module (with JSON import assertion).
  *
- * Added: v17.1.0
- * Backported to: 16.x (likely in next minor release)
- *
- * You must use the node `--experimental-json-modules` flag
- * for this code to work.
+ * JSON modules unflagged: v17.5.0 (with import assertion syntax only)
  */
 
 /**
- * Static import with JSON import asertion.
+ * Static import with JSON import assertion.
  */
 
 import packageJsonExample1 from "./package.json" assert { type: "json" };

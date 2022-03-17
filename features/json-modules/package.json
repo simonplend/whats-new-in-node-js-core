@@ -1,0 +1,7 @@
+{
+  "name": "json-modules",
+  "scripts": {
+    "example-a": "node --experimental-json-modules example-a.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

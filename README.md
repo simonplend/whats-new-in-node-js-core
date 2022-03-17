@@ -15,7 +15,7 @@ You don't need to run `npm install` as there are no dependencies 🪄
 	- [AbortSignal.timeout()](features/abort-api-abortsignal-timeout)
 	- [abortSignal.throwIfAborted()](features/abort-api-abortsignal-throwifaborted)
 	- [abortSignal.reason](features/abort-api-abortsignal-reason)
-- [Import JSON modules in ES modules](features/import-json-modules-in-es-modules)
+- [JSON modules](features/json-modules)
 - Promise-based APIs
 	- [readline](features/promises-api-readline)
 - [structuredClone()](features/structuredclone)
