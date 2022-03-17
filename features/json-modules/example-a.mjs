@@ -17,7 +17,7 @@ console.log({ packageJsonExample1 });
  */
 
 const packageJsonExample2 = await import("./package.json", {
-	assert: { type: "json" },
+  assert: { type: "json" },
 });
 
-console.log({ 'packageJsonExample2.default': packageJsonExample2.default });
+console.log({ "packageJsonExample2.default": packageJsonExample2.default });

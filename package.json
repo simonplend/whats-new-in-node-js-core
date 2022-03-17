@@ -3,7 +3,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "posttest": "npm run format",
-    "format": "prettier --loglevel warn --write \"**/*.{js,md}\""
+    "format": "prettier --loglevel warn --write \"**/*.{js,mjs,md}\""
   },
   "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
   "license": "MIT",

@@ -12,12 +12,12 @@ You don't need to run `npm install` as there are no dependencies 🪄
 ## Features
 
 - Abort API
-	- [AbortSignal.timeout()](features/abort-api-abortsignal-timeout)
-	- [abortSignal.throwIfAborted()](features/abort-api-abortsignal-throwifaborted)
-	- [abortSignal.reason](features/abort-api-abortsignal-reason)
+  - [AbortSignal.timeout()](features/abort-api-abortsignal-timeout)
+  - [abortSignal.throwIfAborted()](features/abort-api-abortsignal-throwifaborted)
+  - [abortSignal.reason](features/abort-api-abortsignal-reason)
 - [JSON modules](features/json-modules)
 - Promise-based APIs
-	- [readline](features/promises-api-readline)
+  - [readline](features/promises-api-readline)
 - [structuredClone()](features/structuredclone)
 
 ## License

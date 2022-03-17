@@ -6,8 +6,8 @@
  */
 
 const user = {
-	name: "Lachlan Morris",
-	address: { street: "Original Road", city: "Placeshire" },
+  name: "Lachlan Morris",
+  address: { street: "Original Road", city: "Placeshire" },
 };
 
 const clonedUser = structuredClone(user);
