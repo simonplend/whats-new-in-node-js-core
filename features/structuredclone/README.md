@@ -12,7 +12,6 @@ npm start
 ## Related links
 
 - [Twitter thread about structuredClone](https://twitter.com/simonplend/status/1483789097734918152)
+- [Blog post about structuredClone](https://simonplend.com/deep-clone-values-with-structuredclone/)
 
 <!-- TODO: Include a screenshot of the tweet -->
-
-<!-- TODO: Add link to blog post -->
