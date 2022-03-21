@@ -33,8 +33,7 @@ _Requires Node.js >= v17.5.0 as it uses the
 npm run example-b
 ```
 
-<!-- TODO: ## Related links -->
+## Related links
 
-<!-- TODO: Add link to Twitter thread + screenshot -->
-
-<!-- TODO: Add link to blog post -->
+- [Twitter thread about AbortSignal.timeout()](https://twitter.com/simonplend/status/1494309000824954882)
+- [Blog post: Automatically cancel async operations with AbortSignal.timeout()](https://simonplend.com/automatically-cancel-async-operations-with-abortsignal-timeout/)
