@@ -12,5 +12,4 @@ npm start
 ## Related links
 
 - [Twitter thread about abortSignal.reason](https://twitter.com/simonplend/status/1486686231517876230)
-
-<!-- TODO: Add link to blog post -->
+- [Blog post: Provide context with abortSignal.reason](https://simonplend.com/provide-context-with-abortsignal-reason/)
