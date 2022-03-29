@@ -12,5 +12,4 @@ npm start
 ## Related links
 
 - [Twitter thread about abortSignal.throwIfAborted()](https://twitter.com/simonplend/status/1487053107720859648)
-
-<!-- TODO: Add link to blog post -->
+- [Blog post: Avoid boilerplate code when handling abort signals](https://simonplend.com/avoid-boilerplate-code-when-handling-abort-signals/)
