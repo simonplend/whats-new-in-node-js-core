@@ -12,7 +12,4 @@ npm start
 ## Related links
 
 - [Twitter thread about readline promises API](https://twitter.com/simonplend/status/1486327345074081793)
-
-<!-- TODO: Add  screenshot of tweet -->
-
-<!-- TODO: Add link to blog post -->
+- [Blog post: Take advantage of promise-based APIs in Node.js](https://simonplend.com/take-advantage-of-promise-based-apis-in-node-js/#readline-promises-module)
