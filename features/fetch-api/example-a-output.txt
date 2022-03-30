@@ -1,0 +1,8 @@
+$ node --experimental-fetch example-a.mjs
+
+(node:409733) ExperimentalWarning: Fetch is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+{
+  responseData: { userId: 1, id: 1, title: 'delectus aut autem', completed: false }
+}
+(node:409733) ExperimentalWarning: buffer.Blob is an experimental feature. This feature could change at any time

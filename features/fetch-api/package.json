@@ -1,0 +1,7 @@
+{
+  "name": "fetch-api",
+  "scripts": {
+    "example-a": "node --experimental-fetch example-a.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
